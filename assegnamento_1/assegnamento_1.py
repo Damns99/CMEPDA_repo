@@ -1,4 +1,4 @@
-''' assegnmento_1.py:
+''' assegnamento_1.py:
     count letter / sequence of chars in a text file, display frequences and other stats
     use --help for available arguments and their usage
 '''
